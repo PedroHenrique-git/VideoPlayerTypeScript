@@ -1,5 +1,5 @@
-<h1>Simple class for validate forms</h1>
+<h1>TypeScript video player</h1>
 
 <p>
- simple class for validating forms. To generate the bundle files, run <b>npm run dev</b>
+ Simple script to create a video player in TypeScript
 </p>

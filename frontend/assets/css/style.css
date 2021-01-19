@@ -25,7 +25,7 @@ main .video-container {
   border: none;
   outline: none;
 }
-.btn {
+button {
   border: none;;
   padding: 15px;
   outline: none;
